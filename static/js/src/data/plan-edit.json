@@ -1,0 +1,15 @@
+{
+  "statusCode": 1,
+
+  "id": 1,
+  "name": "计划名称",
+  "status_name": "未开始",
+  "course_list": [
+    "课程名1",
+    "课程名2",
+    "课程名3"
+  ],
+  "data_start": "2015-06-09 17:18:45",
+  "data_end": "2015-06-16 17:18:45",
+  "introduction": "http://www.baidu.com"
+}

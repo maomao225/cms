@@ -1,0 +1,35 @@
+{
+  "statusCode": 1,
+  "pages": {
+    "page": 1,
+    "totalPage": 3,
+    "recordsPerPage": 100,
+    "totalRecord": 55
+  },
+  "results": [
+    {
+      "id": 1,
+      "title": "专题页标题",
+      "banner": "http://www.baidu.com",
+      "special_url": "http://www.baidu.com",
+      "stype": 1,
+      "latest_publish_time": "2015-06-09 17:38:45",
+      "created": "2015-06-09 17:18:45",
+      "status": 1,
+      "status_name": "未发布",
+      "keywords": "课程 专题"
+    },
+    {
+      "id": 2,
+      "title": "专题页标题",
+      "banner": "http://www.baidu.com",
+      "special_url": "http://www.baidu.com",
+      "stype": 2,
+      "latest_publish_time": "2015-06-09 17:38:45",
+      "created": "2015-06-09 17:18:45",
+      "status": 3,
+      "status_name": "已发布",
+      "keywords": "课程 专题"
+    }
+  ]
+}

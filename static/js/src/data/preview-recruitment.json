@@ -1,0 +1,15 @@
+{
+	"statusCode": 1,
+	"list": [
+		{
+			"id": 1,
+			"name": "前端工程师",
+			"introduction": "HTML5、定制播放器"
+		},
+		{
+			"id": 2,
+			"name": "Python工程师",
+			"introduction": "玩儿转Python(Django)和Ruby\n单挑高并发服务器的各种问题\n了解Nginx、Apache和TCP/IP原理并能实战"
+		}
+	]
+}

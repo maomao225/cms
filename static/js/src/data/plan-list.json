@@ -1,0 +1,37 @@
+{
+  "statusCode": 1,
+  "pages": {
+    "page": 1,
+    "totalPage": 3,
+    "recordsPerPage": 100,
+    "totalRecord": 55
+  },
+  "results": [
+    {
+      "id": 1,
+      "name": "计划名称",
+      "status_name": "未开始",
+      "course_name_list": [
+        "课程名1",
+        "课程名2",
+        "课程名3"
+      ],
+      "data_start": "2015-06-09 17:18:45",
+      "data_end": "2015-06-16 17:18:45",
+      "introduction": "http://www.baidu.com"
+    },
+    {
+      "id": 2,
+      "name": "计划名称2",
+      "status_name": "进行中",
+      "course_name_list": [
+        "课程名1",
+        "课程名2",
+        "课程名3"
+      ],
+      "data_start": "2015-06-09 17:18:45",
+      "data_end": "2015-06-16 17:18:45",
+      "introduction": "http://www.baidu.com"
+    }
+  ]
+}

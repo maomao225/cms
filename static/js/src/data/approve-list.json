@@ -1,0 +1,38 @@
+{
+  "statusCode": 1,
+  "pages": {
+    "page": 1,
+    "totalPage": 3,
+    "recordsPerPage": 100,
+    "totalRecord": 55
+  },
+  "demo_file": "http://www.baidu.com",
+  "results": [
+    {
+      "id": 1,
+      "org_name": "学校名称",
+      "plan_name": "计划名称1",
+      "course_id": "1",
+      "course_name": "课程名称1",
+      "student_count": 40,
+      "invalid_count": 2,
+      "created": "2015-06-09",
+      "updated": "2015-06-16",
+      "org_id": "学校id",
+      "plan_id": "计划id"
+    },
+    {
+      "id": 2,
+      "org_name": "学校名称2",
+      "plan_name": "计划名称2",
+      "course_id": "2",
+      "course_name": "课程名称2",
+      "student_count": 38,
+      "invalid_count": 1,
+      "created": "2015-06-09",
+      "updated": "2015-06-16",
+      "org_id": "学校id",
+      "plan_id": "计划id"
+    }
+  ]
+}

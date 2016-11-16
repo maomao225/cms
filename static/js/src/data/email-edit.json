@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "title": "标题2",
+  "content": "<b>内容</b>",
+  "course_id": "course-v1:shanghaimooc+LG58067+2016_T1",
+  "course_name": "计算机组成与系统结构",
+  "user_count": 1,
+  "send_time": "",
+  "status": 3,
+  "status_name": "审核中",
+  "review_opinion": "审核通过"
+}

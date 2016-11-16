@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "title": "专题页标题",
+  "banner": "http://www.baidu.com",
+  "name": "test",
+  "introduction": "专题说明",
+  "share_copy": "分享文案",
+  "stype": 2,
+  "stype_name": "课程",
+  "status": 1,
+  "keywords": "课程 专题",
+  "recommend_list": [
+    {
+      "post_url": "",
+      "course_id": "course-v1:TsinghuaX+70800232X+2001",
+      "recommend": "课程推荐理由"
+    },
+    {
+      "post_url": "yyyy",
+      "course_id": "",
+      "recommend": "帖子推荐理由"
+    }
+  ],
+  "statusCode": 1
+}

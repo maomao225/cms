@@ -1,0 +1,29 @@
+{
+  "statusCode": 1,
+  "pages": {
+    "page": 1,
+    "totalPage": 3,
+    "recordsPerPage": 100,
+    "totalRecord": 55
+  },
+  "results": [
+    {
+      "id": 1,
+      "unique_code": "学堂号1",
+      "nick_name": "昵称1",
+      "org_number": "学号1",
+      "student_name": "姓名1",
+      "status_name": "选课中",
+      "invalid_reason_name": ""
+    },
+    {
+      "id": 2,
+      "unique_code": "学堂号2",
+      "nick_name": "昵称2",
+      "org_number": "学号2",
+      "student_name": "姓名2",
+      "status_name": "失效",
+      "invalid_reason_name": "学校不匹配"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"statusCode": 1,
+	"task_status_list": [
+		{
+			"id": 0,
+			"name": "已发布"
+		},
+		{
+			"id": 1,
+			"name": "未发布"
+		}
+	],
+	"release_status_list": [
+		{
+			"id": 1,
+			"name": "未执行"
+		},
+		{
+			"id": 2,
+			"name": "执行中"
+		}
+	],
+	"withdraw_status_list": [
+		{
+			"id": 1,
+			"name": "未撤销"
+		},
+		{
+			"id": 2,
+			"name": "已撤销"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"statusCode": 1,
+	"resource": {
+		"id": "1",
+		"name": "资源名称",
+		"description": "资源描述",
+		"ext_content": "资源扩展",
+		"system_list": [
+			{
+				"id": 1,
+				"name": "CMS系统",
+				"is_checked": 1
+			},
+			{
+				"id": 2,
+				"name": "数据系统",
+				"is_checked": 0
+			}
+		]
+	}
+}

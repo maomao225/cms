@@ -1,0 +1,31 @@
+{
+	"statusCode": 1,
+	"pages": {
+		"page": 1,
+		"totalPage": 3,
+		"recordsPerPage": 100,
+		"totalRecord": 55
+	},
+	"list": [
+		{
+			"id": 1,
+			"course_id": "课程id",
+			"name": "互联网生存环境",
+			"course_type": "课程类型",
+			"course_status": "课程状态",
+			"org": "学校",
+			"open_times": "开课次数",
+			"start": "开课时间",
+			"end": "结课时间",
+			"length": "课程周数",
+			"week_enrollment_count": "当周报名人数",
+			"total_enrollment_count": "累计报名人数",
+			"certificate_count": "获得证书人数",
+			"finish_course_rate": "结课率"
+		},
+		{
+			"id": 2,
+			"name": "互联网生存环境"
+		}
+	]
+}

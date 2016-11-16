@@ -1,0 +1,31 @@
+{
+	"statusCode": 1,
+	"list": [
+		{
+			"id": "1",
+			"name": "清华CAP",
+			"introduction": "清华CAP",
+			"image": "http://storage.xuetangx.com/public_assets/xuetangx/event/apcourse/banner_bg.jpg",
+			"btype": "课程",
+			"loca": "http://www.xuetangx.com/event/apcourse",
+			"order": 1,
+			"is_active": 1,
+			"belong": "手机",
+			"image_big": "",
+			"channel": "小米"
+		},
+		{
+			"id": "2",
+			"name": "软件工程",
+			"introduction": "软件工程",
+			"image": "http://storage.xuetangx.com/public_assets/xuetangx/event/apcourse/banner_bg.jpg",
+			"btype": "分类",
+			"loca": "http://www.xuetangx.com/event/apcourse",
+			"order": 2,
+			"is_active": 0,
+			"belong": "电视",
+			"image_big": "http://storage.xuetangx.com/public_assets/xuetangx/event/apcourse/banner_bg.jpg",
+			"channel": ""
+		}
+	]
+}

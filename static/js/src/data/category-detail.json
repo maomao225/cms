@@ -1,0 +1,17 @@
+{
+	"statusCode": 1,
+	"id": 1,
+	"category_list": [
+		{
+			"id": 1,
+			"name": "物理",
+			"is_checked": 1
+		},
+		{
+			"id": 2,
+			"name": "化学",
+			"is_checked": 0
+		}
+	],
+	"pic_url": "http://xxxxx"
+}

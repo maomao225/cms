@@ -1,0 +1,12 @@
+{
+  "student_list": [
+    {
+      "unique_code": "学堂号1",
+      "org_number": "学号1"
+    },
+    {
+      "unique_code": "学堂号2",
+      "org_number": "学号2"
+    }
+  ]
+}

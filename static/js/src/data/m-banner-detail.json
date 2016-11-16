@@ -1,0 +1,45 @@
+{
+	"statusCode": 1,
+	"id": "1",
+	"name": "清华CAP",
+	"introduction": "清华CAP",
+	"image": "http://storage.xuetangx.com/public_assets/xuetangx/event/apcourse/banner_bg.jpg",
+	"loca": "http://www.xuetangx.com/event/apcourse",
+	"btype_list": [
+		{
+			"id": "course",
+			"name": "course",
+			"is_checked": 1
+		},
+		{
+			"id": "category",
+			"name": "category",
+			"is_checked": 0
+		}
+	],
+	"belong_list": [
+		{
+			"id": "mobile",
+			"name": "mobile",
+			"is_checked": 0
+		},
+		{
+			"id": "tv",
+			"name": "tv",
+			"is_checked": 1
+		}
+	],
+	"channel_list": [
+		{
+			"id": "xiaomi",
+			"name": "xiaomi",
+			"is_checked": 1
+		},
+		{
+			"id": "samsung",
+			"name": "samsung",
+			"is_checked": 0
+		}
+	],
+	"image_big": ""
+}

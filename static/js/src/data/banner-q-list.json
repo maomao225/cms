@@ -1,0 +1,34 @@
+{
+
+	"statusCode": 1,
+	"btype_list": [
+		{
+			"id": "course",
+			"name": "course"
+		},
+		{
+			"id": "category",
+			"name": "category"
+		}
+	],
+	"belong_list": [
+		{
+			"id": "mobile",
+			"name": "mobile"
+		},
+		{
+			"id": "tv",
+			"name": "tv"
+		}
+	],
+	"channel_list": [
+		{
+			"id": "xiaomi",
+			"name": "xiaomi"
+		},
+		{
+			"id": "samsung",
+			"name": "samsung"
+		}
+	]
+}

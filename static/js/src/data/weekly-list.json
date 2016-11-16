@@ -1,0 +1,37 @@
+{
+  "statusCode": 1,
+  "pages": {
+    "page": 1,
+    "totalPage": 3,
+    "recordsPerPage": 100,
+    "totalRecord": 55
+  },
+  "results": [
+    {
+      "id": 1,
+      "org_name": "学校名称",
+      "plan_name": "计划名称",
+      "course_list": [
+        "课程名1",
+        "课程名2",
+        "课程名3"
+      ],
+      "update_time": "2015-06-09 17:18:45",
+      "pdf_url": "http://www.baidu.com",
+      "zip_url": "http://www.baidu.com"
+    },
+    {
+      "id": 2,
+      "org_name": "学校名称2",
+      "plan_name": "计划名称2",
+      "course_list": [
+        "课程名1",
+        "课程名2",
+        "课程名3"
+      ],
+      "update_time": "2015-06-10 17:18:45",
+      "pdf_url": "http://www.baidu.com",
+      "zip_url": "http://www.baidu.com"
+    }
+  ]
+}

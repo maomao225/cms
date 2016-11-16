@@ -1,0 +1,22 @@
+{
+  "plan_list": [
+    {
+      "id": "1",
+      "name": "计划1"
+    },
+    {
+      "id": "2",
+      "name": "计划2"
+    }
+  ],
+  "course_list": [
+    {
+      "course_id": "1",
+      "course_name": "课程名称1"
+    },
+    {
+      "course_id": "2",
+      "course_name": "课程名称2"
+    }
+  ]
+}

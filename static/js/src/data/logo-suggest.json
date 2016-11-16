@@ -1,0 +1,19 @@
+{
+  "statusCode": 0,
+  "list": [
+    {
+      "id": 1,
+      "show_name": "logo名称",
+      "name": "1.png",
+      "elec_url": "http://www.xuetangx.com/commercial/TsinghuaX/00690242_1X_2014/2014_T2/certificate/preview_paper",
+      "paper_url": "http://storage.xuetangx.com/public_assets/xuetangx/credential/thumbnail/J2lXg-pbe9J_1080.jpg"
+    },
+    {
+      "id": 2,
+      "show_name": "logo名称2",
+      "name": "2.png",
+      "elec_url": "http://storage.xuetangx.com/public_assets/xuetangx/credential/thumbnail/J2lXg-pbe9J_1080.jpg",
+      "paper_url": "http://www.xuetangx.com/commercial/TsinghuaX/00690242_1X_2014/2014_T2/certificate/preview_paper"
+    }
+  ]
+}

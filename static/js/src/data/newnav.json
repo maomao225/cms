@@ -1,0 +1,522 @@
+{
+  "msg": "",
+  "navs": [
+    {
+      "name": "CMS",
+      "resource_id": 1,
+      "url": "cms",
+      "order": 1,
+      "child": [
+        {
+          "name": "首页管理",
+          "resource_id": 3,
+          "url": null,
+          "order": 1,
+          "child": [
+            {
+              "name": "Banner",
+              "resource_id": 5,
+              "url": "homepage/banner",
+              "order": 1,
+              "id": 5,
+              "mkey": "bn"
+            },
+            {
+              "name": "课程分类",
+              "resource_id": 6,
+              "url": "homepage/category",
+              "order": 1,
+              "id": 5,
+              "mkey": "cate"
+            },
+            {
+              "name": "课程推荐",
+              "resource_id": 7,
+              "url": "homepage/recommend",
+              "order": 1,
+              "id": 5,
+              "mkey": "rec"
+            },
+            {
+              "name": "微专题",
+              "resource_id": 8,
+              "url": "homepage/microspecial",
+              "order": 1,
+              "id": 6,
+              "mkey": "rec"
+            },
+            {
+              "name": "热门知识点",
+              "resource_id": 9,
+              "url": "homepage/fragment",
+              "order": 1,
+              "id": 6,
+              "mkey": "rec"
+            },
+            {
+              "name": "帖子推荐",
+              "resource_id": 10,
+              "url": "homepage/recpost",
+              "order": 1,
+              "id": 6,
+              "mkey": "rec"
+            },
+            {
+              "name": "合作伙伴",
+              "resource_id": 10,
+              "url": "homepage/partner",
+              "order": 1,
+              "id": 6,
+              "mkey": "rec"
+            }
+          ],
+          "id": 3,
+          "mkey": "sygl"
+        },
+        {
+          "name": "社区管理",
+          "resource_id": 2,
+          "url": null,
+          "order": 2,
+          "child": [
+            {
+              "name": "帖子",
+              "resource_id": 7,
+              "url": "community/posts",
+              "order": 4,
+              "id": 7,
+              "mkey": "tz"
+            },
+            {
+              "name": "用户",
+              "resource_id": 15,
+              "url": "community/user",
+              "order": 5,
+              "id": 10,
+              "mkey": "yh"
+            },
+            {
+              "name": "举报",
+              "resource_id": 16,
+              "url": "community/reports",
+              "order": 6,
+              "id": 11,
+              "mkey": "jb"
+            },
+            {
+              "name": "评论",
+              "resource_id": 8,
+              "url": "community/comments",
+              "order": 7,
+              "id": 12,
+              "mkey": "pl"
+            },
+            {
+              "name": "评论-知识点",
+              "resource_id": 8,
+              "url": "community/f-comments",
+              "order": 7,
+              "id": 12,
+              "mkey": "plzsd"
+            },
+            {
+              "name": "标签",
+              "resource_id": 12,
+              "url": "community/tags",
+              "order": 8,
+              "id": 13,
+              "mkey": "bq"
+            }
+          ],
+          "id": 2,
+          "mkey": "sqgl"
+        },
+        {
+          "name": "站内信",
+          "resource_id": 17,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "站内信管理",
+              "resource_id": 18,
+              "url": "letter/letters",
+              "order": 1,
+              "id": 15,
+              "mkey": "znxgl"
+            },
+            {
+              "name": "新站内信管理",
+              "resource_id": 18,
+              "url": "message/messages",
+              "order": 1,
+              "id": 15,
+              "mkey": "znxgl"
+            },
+            {
+              "name": "推送邮件",
+              "resource_id": 18,
+              "url": "message/pushemail",
+              "order": 1,
+              "id": 15,
+              "mkey": "znxgl"
+            }
+          ],
+          "id": 14,
+          "mkey": "znx"
+        },
+        {
+          "name": "院校",
+          "resource_id": 17,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "合作院校",
+              "resource_id": 18,
+              "url": "school/schools",
+              "order": 1,
+              "id": 15,
+              "mkey": "hzyx"
+            }
+          ],
+          "id": 14,
+          "mkey": "yx"
+        },
+        {
+          "name": "关于我们",
+          "resource_id": 17,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "招聘信息",
+              "resource_id": 18,
+              "url": "about/recruitment",
+              "order": 1,
+              "id": 15,
+              "mkey": "zpxx"
+            }
+          ],
+          "id": 14,
+          "mkey": "gywm"
+        },
+        {
+          "name": "移动端",
+          "resource_id": 17,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "Banner",
+              "resource_id": 18,
+              "url": "mobile/banner",
+              "order": 1,
+              "id": 15,
+              "mkey": "mb"
+            }
+          ],
+          "id": 14,
+          "mkey": "ydd"
+        },
+        {
+          "name": "电视端",
+          "resource_id": 17,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "精品专题",
+              "resource_id": 18,
+              "url": "tv/special",
+              "order": 1,
+              "id": 15,
+              "mkey": "jpzt"
+            },
+            {
+              "name": "名人名言",
+              "resource_id": 18,
+              "url": "tv/wisdom",
+              "order": 1,
+              "id": 15,
+              "mkey": "mrmy"
+            }
+          ],
+          "id": 14,
+          "mkey": "dsd"
+        },
+        {
+          "name": "课程信息",
+          "resource_id": 17,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "课程信息表",
+              "resource_id": 18,
+              "url": "courseinfo/all",
+              "order": 1,
+              "id": 15,
+              "mkey": "kcxxb"
+            },
+            {
+              "name": "整体统计",
+              "resource_id": 18,
+              "url": "courseinfo/total",
+              "order": 1,
+              "id": 15,
+              "mkey": "zttj"
+            },
+            {
+              "name": "按学校统计",
+              "resource_id": 18,
+              "url": "courseinfo/byschool",
+              "order": 1,
+              "id": 15,
+              "mkey": "axxtj"
+            },
+            {
+              "name": "按课程统计",
+              "resource_id": 18,
+              "url": "courseinfo/bycourse",
+              "order": 1,
+              "id": 15,
+              "mkey": "akctj"
+            },
+            {
+              "name": "选修课下载",
+              "resource_id": 18,
+              "url": "courseinfo/download",
+              "order": 1,
+              "id": 15,
+              "mkey": "akctj"
+            }
+          ],
+          "id": 14,
+          "mkey": "dsd"
+        },
+        {
+          "name": "工单系统",
+          "resource_id": 18,
+          "url": "repair/repairs",
+          "order": 3
+        },
+        {
+          "name": "订单管理",
+          "resource_id": 22,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "moocap订单",
+              "resource_id": 18,
+              "url": "order/moocap",
+              "order": 1,
+              "id": 15,
+              "mkey": "kcxxb"
+            },
+            {
+              "name": "证书订单",
+              "resource_id": 18,
+              "url": "order/certificate",
+              "order": 1,
+              "id": 15,
+              "mkey": "kcxxb"
+            },
+            {
+              "name": "退款订单",
+              "resource_id": 18,
+              "url": "order/refund",
+              "order": 1,
+              "id": 15,
+              "mkey": "kcxxb"
+            }
+          ]
+        },
+        {
+          "name": "证书管理系统",
+          "resource_id": 17,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "证书信息管理",
+              "resource_id": 18,
+              "url": "certificates",
+              "order": 1,
+              "id": 15,
+              "mkey": "kcxxb"
+            },
+            {
+              "name": "签字库",
+              "resource_id": 18,
+              "url": "signatures",
+              "order": 1,
+              "id": 15,
+              "mkey": "zttj"
+            },
+            {
+              "name": "Logo库",
+              "resource_id": 18,
+              "url": "logos",
+              "order": 1,
+              "id": 15,
+              "mkey": "zttj"
+            }
+          ],
+          "id": 14,
+          "mkey": "dsd"
+        },
+        {
+          "name": "课程内容",
+          "resource_id": 22,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "调查问卷",
+              "resource_id": 18,
+              "url": "coursecontent/survey",
+              "order": 1,
+              "id": 15,
+              "mkey": "dcwj"
+            }
+          ]
+        },
+        {
+          "name": "审核系统",
+          "resource_id": 22,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "课程邮件",
+              "resource_id": 18,
+              "url": "review/email",
+              "order": 1,
+              "id": 15,
+              "mkey": "kcyj"
+            }
+          ]
+        },
+        {
+          "name": "频道内容",
+          "resource_id": 22,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "专题页",
+              "resource_id": 18,
+              "url": "channel/event",
+              "order": 1,
+              "id": 15,
+              "mkey": "zty"
+            }
+          ]
+        },
+        {
+          "name": "学堂选修课",
+          "resource_id": 22,
+          "url": "",
+          "order": 3,
+          "child": [
+            {
+              "name": "选修计划",
+              "resource_id": 18,
+              "url": "ecourse/plan",
+              "order": 1,
+              "id": 15,
+              "mkey": "zty"
+            },
+            {
+              "name": "核准名单",
+              "resource_id": 18,
+              "url": "ecourse/approve",
+              "order": 1,
+              "id": 15,
+              "mkey": "zty"
+            },
+            {
+              "name": "选修周报",
+              "resource_id": 18,
+              "url": "ecourse/weekly",
+              "order": 1,
+              "id": 15,
+              "mkey": "zty"
+            }
+          ]
+        }
+      ],
+      "id": 1,
+      "mkey": "cms"
+    },
+    {
+      "name": "SSO",
+      "resource_id": 19,
+      "url": "sso",
+      "order": 2,
+      "child": [
+        {
+          "name": "用户管理",
+          "resource_id": 20,
+          "url": "admin",
+          "order": 1,
+          "id": 18,
+          "mkey": "yhgl"
+        },
+        {
+          "name": "菜单管理",
+          "resource_id": 29,
+          "url": "menu",
+          "order": 2,
+          "id": 19,
+          "mkey": "cdgl"
+        },
+        {
+          "name": "资源管理",
+          "resource_id": 30,
+          "url": "resource",
+          "order": 3,
+          "id": 20,
+          "mkey": "zygl"
+        },
+        {
+          "name": "角色管理",
+          "resource_id": 39,
+          "url": "role",
+          "order": 4,
+          "id": 22,
+          "mkey": "jsgl"
+        }
+      ],
+      "id": 17,
+      "mkey": "sso"
+    }
+  ],
+  "nickname": "dingyibo",
+  "sys_list": [
+    {
+      "url": "http://192.168.9.189:7777/main?sso_session_id=e703d6fdadac7b3f7466475c66b8245f",
+      "is_checked": 1,
+      "skey": "cms",
+      "id": 1,
+      "name": "CMS运营后台"
+    },
+    {
+      "url": "http://192.168.9.202:8000/oauth/xtx?sso_session_id=e703d6fdadac7b3f7466475c66b8245f",
+      "is_checked": 0,
+      "skey": "opdata",
+      "id": 2,
+      "name": "数据平台"
+    },
+    {
+      "url": "http://192.168.9.189:7779/main?sso_session_id=e703d6fdadac7b3f7466475c66b8245f",
+      "is_checked": 0,
+      "skey": "sso",
+      "id": 3,
+      "name": "SSO"
+    }
+  ],
+  "statusCode": 200
+}

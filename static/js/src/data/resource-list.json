@@ -1,0 +1,27 @@
+{
+	"statusCode": 1,
+	"pages": {
+		"page": 1,
+		"totalPage": 3,
+		"recordsPerPage": 100,
+		"totalRecord": 55
+	},
+	"list": [
+		{
+			"id": 1,
+			"name": "帖子",
+			"system_name": "子系统名称",
+			"description": "描述",
+			"created": "2015-06-09 16:38:45",
+			"modified": "2015-06-09 16:38:45"
+		},
+		{
+			"id": 2,
+			"name": "帖子2",
+			"system_name": "子系统名称2",
+			"description": "描述2",
+			"created": "2015-06-09 16:38:45",
+			"modified": "2015-06-09 16:38:45"
+		}
+	]
+}

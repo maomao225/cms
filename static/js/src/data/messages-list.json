@@ -1,0 +1,13 @@
+{
+	"statusCode": 1,
+	"pages": {
+		"page": 1,
+		"totalPage": 3,
+		"recordsPerPage": 100,
+		"totalRecord": 55
+	},
+	"list": [
+		{"id": "1", "title": "【有奖征文】“乐享慕课”：MOOC与未来教育", "content": "MOOC与未来教育", "channel": "站内信", "task_status": "1", "task_status_name": "已发布", "release_status": "已执行", "withdraw_status": "1", "withdraw_status_name": "已撤销", "created": "2015/05/05 21:00:00", "sender": "张依依"},
+		{"id": "1", "title": "【有奖征文】“乐享慕课”：MOOC与未来教育", "content": "MOOC与未来教育MOOC与未来教育MOOC与未来教育", "channel": "邮件", "task_status": "0", "task_status_name": "未发布", "release_status": "未执行", "withdraw_status": "0", "withdraw_status_name": "未撤销", "created": "2015/06/05 21:00:00", "sender": "张依依"}
+	]
+}

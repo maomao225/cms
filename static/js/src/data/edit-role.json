@@ -1,0 +1,39 @@
+{
+	"statusCode": 1,
+	"role": {
+		"id": "1",
+		"name": "角色名称",
+		"resource_list": [
+			{
+				"system_name": "子系统名称",
+				"list": [
+					{
+						"id": "1",
+						"name": "帖子管理",
+						"is_checked": 1
+					},
+					{
+						"id": 2,
+						"name": "标签管理",
+						"is_checked": 0
+					}
+				]
+			},
+			{
+				"system_name": "子系统名称2",
+				"list": [
+					{
+						"id": "4",
+						"name": "数据管理",
+						"is_checked": 0
+					},
+					{
+						"id": 5,
+						"name": "数据管理2",
+						"is_checked": 1
+					}
+				]
+			}
+		]
+	}
+}

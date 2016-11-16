@@ -1,0 +1,25 @@
+{
+	"statusCode": 1,
+	"pages": {
+		"page": 1,
+		"totalPage": 3,
+		"recordsPerPage": 100,
+		"totalRecord": 55
+	},
+	"list": [
+		{
+			"id": 1,
+			"name": "互联网生存环境",
+			"link_url": "http://yyyyyy",
+			"cover_image": "http://xxxxxx",
+			"order": 1
+		},
+		{
+			"id": 2,
+			"name": "互联网生存环境",
+			"link_url": "http://yyyyy",
+			"cover_image": "http://xxxxxx",
+			"order": 1
+		}
+	]
+}

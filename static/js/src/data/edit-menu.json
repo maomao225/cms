@@ -1,0 +1,35 @@
+{
+	"statusCode": 1,
+	"menu": {
+		"id": "1",
+		"name": "菜单名称",
+		"mkey": "菜单key",
+		"url": "菜单url",
+		"system_name": "子系统名称",
+		"order": "1",
+		"resource_list": [
+			{
+				"id": "1",
+				"name": "帖子",
+				"is_checked": 1
+			},
+			{
+				"id": "2",
+				"name": "标签",
+				"is_checked": 0
+			}
+		],
+		"menu_list": [
+			{
+				"id": "1",
+				"name": "帖子",
+				"is_checked": 0
+			},
+			{
+				"id": "2",
+				"name": "标签",
+				"is_checked": 1
+			}
+		]
+	}
+}

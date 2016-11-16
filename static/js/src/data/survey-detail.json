@@ -1,0 +1,12 @@
+{
+  "statusCode": 1,
+  "id": 1,
+  "participants_count": "222",
+  "title": "问卷名称",
+  "submit_text": "提交问卷",
+  "preface": "前言",
+  "start": "2015-06-09 16:38:45",
+  "survey_url": "问卷调查的url",
+  "slug": "问卷唯一标示",
+  "closed": null
+}

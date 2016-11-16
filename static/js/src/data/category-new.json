@@ -1,0 +1,13 @@
+{
+	"statusCode": 1,
+	"category_list": [
+		{
+			"id": 1,
+			"name": "物理"
+		},
+		{
+			"id": 2,
+			"name": "化学"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"statusCode": 1,
+	"list": [
+		{
+			"id": 1,
+			"name": "理工男耍帅必修课",
+			"slug": "标记",
+			"group_name": "tv_topic",
+			"cover_image": "http://xxxxxx",
+			"order": 1
+		},
+		{
+			"id": 2,
+			"name": "理工男耍帅必修课",
+			"slug": "标记2",
+			"group_name": "tv_topic",
+			"cover_image": "http://xxxxxx",
+			"order": 2
+		}
+	]
+}

@@ -1,0 +1,93 @@
+{
+  "statusCode": 1,
+  "course_id": "课程id",
+  "course_name": "课程名称",
+  "list_info": {
+    "excellence_students": [
+      123,
+      455,
+      678,
+      234
+    ],
+    "eligible_students": [
+      123,
+      456
+    ],
+    "syn_student_status_name": "未同步",
+    "last_syn_date": "2015-11-28 08:46:06Z",
+    "syn_student_status": 1
+  },
+  "text_info": {
+    "authenticity_en_us": "英文认证地址",
+    "authenticity_zh_cn": "中文认证地址",
+    "authorization_en_us": "英文授权说明",
+    "authorization_zh_cn": "中文授权说明",
+    "course_name_en_us": "英文课程名",
+    "course_name_zh_cn": "中文课程名",
+    "course_number": "课程号",
+    "issue_date_en_us": " 英文发证日期",
+    "issue_date_zh_cn": " 中文发证日期",
+    "pass_en_us": " 英文合格说明",
+    "pass_zh_cn": "中文合格说明",
+    "statement_en_us": " 英文额外声明",
+    "statement_zh_cn": "中文额外声明",
+    "university_en_us": " 英文学校名",
+    "university_zh_cn": "中文学校名"
+  },
+  "image_info": {
+    "elec_logo_url": "http://storage.xuetangx.com/public_assets/xuetangx/credential/thumbnail/J2lXg-pbe9J_1080.jpg",
+    "paper_logo_url": "http://www.xuetangx.com/commercial/TsinghuaX/00690242_1X_2014/2014_T2/certificate/preview_paper",
+    "name": "证书logo"
+  },
+  "date_info": {
+    "issue_date": "2015-11-28 08:46:06Z"
+  },
+  "professor_list": [
+    {
+      "degree_en_us": "英文学位",
+      "degree_zh_cn": "中文学位",
+      "duty_en_us": "英文职位",
+      "duty_zh_cn": "中文职位",
+      "name_zh_cn": "中文姓名",
+      "name_en_us": "英文姓名",
+      "type": "authorizer",
+      "signiture_url": "http://pic.wenwen.soso.com/p/20100617/20100617231534-1261200328.jpg",
+      "signiture_zh_cn": "签字名称1"
+    },
+    {
+      "degree_en_us": "英文学位2",
+      "degree_zh_cn": "中文学位2",
+      "duty_en_us": "英文职位2",
+      "duty_zh_cn": "中文职位2",
+      "name_zh_cn": "中文姓名2",
+      "name_en_us": "英文姓名2",
+      "type": "professor",
+      "signiture_url": "http://pic.wenwen.soso.com/p/20100617/20100617231534-1261200328.jpg",
+      "signiture_zh_cn": "签字名称2"
+    }
+  ],
+  "status_list": [
+    {
+      "id": 1,
+      "name": "发放中",
+      "is_checked": 1
+    },
+    {
+      "id": 0,
+      "name": "停止发放",
+      "is_checked": 0
+    }
+  ],
+  "msg_send_info": {
+    "msg_send_count": 14,
+    "msg_task_ids": [
+      17,
+      49
+    ]
+  },
+  "course_number": "课程号",
+  "course_name_en_us": "英文课程名",
+  "course_name_zh_cn": "中文课程名",
+  "university_en_us": " 英文学校名",
+  "university_zh_cn": "中文学校名"
+}

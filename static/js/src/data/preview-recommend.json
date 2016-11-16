@@ -1,0 +1,25 @@
+{
+	"statusCode": 1,
+	"list": [
+		{
+			"id": 1,
+			"cid": 1,
+			"course_id": "TsinghuaX+MOOC101+2015_T1",
+			"title": "互联网生存环境",
+			"description": "描述内容",
+			"pic_url": "http://xxxxxx",
+			"ref_url": "http://xxxxx",
+			"order": 1
+		},
+		{
+			"id": 2,
+			"cid": 2,
+			"course_id": "TsinghuaX+MOOC101+2015_T2",
+			"title": "互联网生存环境",
+			"description": "描述内容",
+			"pic_url": "http://xxxxxx",
+			"ref_url": "http://xxxxx",
+			"order": 2
+		}
+	]
+}

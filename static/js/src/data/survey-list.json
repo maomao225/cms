@@ -1,0 +1,29 @@
+{
+  "statusCode": 1,
+  "pages": {
+    "page": 1,
+    "totalPage": 3,
+    "recordsPerPage": 100,
+    "totalRecord": 55
+  },
+  "results": [
+    {
+      "id": 1,
+      "participants_count": "222",
+      "title": "问卷名称",
+      "start": "2015-06-09 16:38:45",
+      "survey_url": "问卷调查的url",
+      "statistic_url": "http://www.baidu.com",
+      "slug": "问卷唯一标示"
+    },
+    {
+      "id": 2,
+      "participants_count": "432",
+      "title": "问卷名称2",
+      "start": "2015-06-09 16:38:45",
+      "survey_url": "问卷调查的url2",
+      "statistic_url": "http://www.baidu.com",
+      "slug": "问卷唯一标示"
+    }
+  ]
+}

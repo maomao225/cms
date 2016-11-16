@@ -1,0 +1,51 @@
+{
+    "statusCode": 1,
+    "title":"问题标题",
+    "belong_user": "zhuxiaoshan(工单所属人)",
+    "source_type_name": "主站，VPC",
+    "user_type_name": "B:B端，C：C端",
+    "rtype_name": "问题类型",
+    "status_name": "工单状态",
+    "ip": "ip地址",
+    "broswer": "浏览器版本",
+    "student_id": "",
+    "school": "",
+    "xuetangx_id": "学堂号",
+    "user_id": "user_id",
+    "email": "xxx@xuetangx.com",
+    "register_date": "2015-01-01 19:32:31",
+    "is_elective": "-",
+    "QQ":"6648021",
+    "mobile": "18210133693",
+    "coupon_count": "1",
+    "study_info": [{
+        "course_name": "法学高级入门",
+        "course_type_name": "认证课程",
+        "pay_progress": "未申请"
+    }],
+    "study_record": [{
+        "course_name": "法学高级入门",
+        "chapter": "第一讲",
+        "section": " 环境资源法学科特点",
+        "tudy_time": "2015-01-01 19:32:31"
+    }],
+    "question_answer": [
+      {
+        "type": "1",
+        "content": "内容内容内容内容内容内容内容内容内容内容内容内容内容",
+        "attach_list": [
+          "http://img4q.duitang.com/uploads/item/201406/10/20140610224246_fFuUx.jpeg",
+          "http://img4q.duitang.com/uploads/item/201406/10/20140610224246_fFuUx.jpeg"
+        ]
+      },
+      {
+        "type": "2",
+        "content": "回复回复",
+        "answer_attach_list": [
+          "http://img4q.duitang.com/uploads/item/201406/10/20140610224246_fFuUx.jpeg",
+          "http://img4q.duitang.com/uploads/item/201406/10/20140610224246_fFuUx.jpeg"
+        ]
+      }
+    ],
+    "is_edit": "1"
+}

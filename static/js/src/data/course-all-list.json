@@ -1,0 +1,47 @@
+{
+	"statusCode": 1,
+	"pages": {
+		"page": 1,
+		"totalPage": 3,
+		"recordsPerPage": 100,
+		"totalRecord": 55
+	},
+	"list": [
+		{
+			"id": 1,
+			"name": "互联网生存环境",
+			"teacher_info": [
+				{
+					"id": 1,
+					"name": "老师姓名",
+					"position": "职称",
+					"college": "所属大学"
+				},
+				{
+					"id": 2,
+					"name": "老师姓名",
+					"position": "职称",
+					"college": "所属大学"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "互联网生存环境",
+			"teacher_info": [
+				{
+					"id": 1,
+					"name": "老师姓名",
+					"position": "职称",
+					"college": "所属大学"
+				},
+				{
+					"id": 2,
+					"name": "老师姓名",
+					"position": "职称",
+					"college": "所属大学"
+				}
+			]
+		}
+	]
+}

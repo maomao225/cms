@@ -1,0 +1,8 @@
+{
+	"statusCode": 1,
+	"id": 1,
+	"name": "理工男耍帅必修课",
+	"slug": "标记",
+	"group_list": [{"id":1,"slug":"course", "is_checked":1}, {"id":2,"slug":"tv_topic", "is_checked":0}],
+	"cover_image": "http://xxxxxx"
+}

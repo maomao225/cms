@@ -1,0 +1,10 @@
+{
+	"statusCode": 0,
+	"nickname": "zhangyiyi",
+	"navs": [
+		{"url": "#", "label": "角色及权限管理"},
+		{"url": "#menu", "label": "菜单管理"},
+		{"url": "#resource", "label": "资源管理"},
+		{"url": "#role", "label": "角色管理"}
+	]
+}

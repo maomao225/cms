@@ -1,0 +1,50 @@
+{
+  "statusCode": 1,
+  "org_list": [
+    {
+      "org_id": "1",
+      "name": "清华大学",
+      "is_checked": 1
+    },
+    {
+      "org_id": "2",
+      "name": "斯坦福大学",
+      "is_checked": 0
+    }
+  ],
+  "plan_list": [
+    {
+      "id": "1",
+      "name": "计划1",
+      "is_checked": 1
+    },
+    {
+      "id": "2",
+      "name": "计划2",
+      "is_checked": 0
+    }
+  ],
+  "course_list": [
+    {
+      "course_id": "1",
+      "course_name": "课程名称1",
+      "is_checked": 1
+    },
+    {
+      "course_id": "2",
+      "course_name": "课程名称2",
+      "is_checked": 0
+    }
+  ],
+  "student_list": [
+    {
+      "unique_code": "学堂号1",
+      "org_number": "学号1"
+    },
+    {
+      "unique_code": "学堂号2",
+      "org_number": "学号2"
+    }
+  ],
+  "downloadlink": "http://www.baidu.com"
+}

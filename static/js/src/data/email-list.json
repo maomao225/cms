@@ -1,0 +1,41 @@
+{
+  "statusCode": 1,
+  "pages": {
+    "page": 1,
+    "totalPage": 3,
+    "recordsPerPage": 100,
+    "totalRecord": 55
+  },
+  "results": [
+    {
+      "id": 1,
+      "title": "邮件主题",
+      "content": "<b>邮件正文</b>",
+      "course_id": "课程id",
+      "course_name": "课程名称",
+      "commit_time": "2015-06-09 17:38:45",
+      "user_count": "333",
+      "review_opinion": "评审意见",
+      "status": 1,
+      "status_name": "邮件状态",
+      "review_user": "评审人",
+      "created": "2015-06-09 16:38:45",
+      "send_time": "2015-06-10 16:38:45"
+    },
+    {
+      "id": 2,
+      "title": "邮件主题",
+      "content": "<b>邮件正文</b>",
+      "course_id": "课程id",
+      "course_name": "课程名称",
+      "commit_time": "2015-06-09 17:38:45",
+      "user_count": "333",
+      "review_opinion": "评审意见",
+      "status": 2,
+      "status_name": "邮件状态",
+      "review_user": "评审人",
+      "created": "2015-06-09 16:38:45",
+      "send_time": "2015-06-10 16:38:45"
+    }
+  ]
+}

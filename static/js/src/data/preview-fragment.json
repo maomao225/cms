@@ -1,0 +1,21 @@
+{
+	"statusCode": 1,
+	"list": [
+		{
+			"id": 1,
+			"frag_id": 1,
+			"course_id": "TsinghuaX+MOOC101+2015_T1",
+			"title": "互联网生存环境",
+			"pic_url": "http://xxxxxx",
+			"order": 1
+		},
+		{
+			"id": 2,
+			"frag_id": 2,
+			"course_id": "TsinghuaX+MOOC101+2015_T1",
+			"title": "互联网生存环境",
+			"pic_url": "http://xxxxxx",
+			"order": 2
+		}
+	]
+}

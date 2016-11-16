@@ -1,0 +1,13 @@
+{
+  "statusCode": 1,
+  "excellence_students": [
+    123,
+    455,
+    678,
+    222
+  ],
+  "eligible_students": [
+    123,
+    456
+  ]
+}

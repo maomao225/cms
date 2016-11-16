@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="../static/css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="../static/css/common.css">
+	<title>文件上传测试</title>
+</head>
+<body>
+<button type="button" class="btn btn-default fileinput-button upload-btn">
+	<span>一键上传</span>
+	<input id="fileupload" type="file" name="files">
+</button>
+<div class="output"></div>
+<script src="../static/js/config.js"></script>
+<script src="../static/js/libs/require.js"></script>
+<script>
+	require([
+		'jquery',
+		'fileupload'
+	], function ($) {
+		$(function () {
+			$('#fileupload').fileupload({
+				url: "../static/js/src/data/letter-detail.json",
+				dataType: 'json',
+				add: function (e, data) {
+					var goUpload = true;
+					var uploadFile = data.files[0];
+					//file type validation
+					if (!(/(\.|\/)(jpeg|jpg|gif|png)$/i).test(uploadFile.name)) {
+						$(".output").text("仅支持图片格式文件，请重新选择");
+						setTimeout(function () {
+							$(".output").text("");
+						}, 2000);
+						goUpload = false;
+					}
+					if (goUpload == true) {
+						data.submit();
+					}
+				},
+				done: function (e, data) {
+					$(".output").html(data);
+				}
+			}).prop('disabled', !$.support.fileInput);
+		});
+	});
+</script>
+</body>
+</html>

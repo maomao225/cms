@@ -1,0 +1,33 @@
+{
+	"statusCode": 1,
+	"pages": {
+		"page": 1,
+		"totalPage": 3,
+		"recordsPerPage": 100,
+		"totalRecord": 55
+	},
+	"list": [
+		{
+			"id": 1,
+			"order": 1,
+			"name": "帖子管理",
+			"mkey": "tzgl",
+			"resource_name": "对应资源名称",
+			"url": "#community/posts",
+			"parent_name": "父菜单名称",
+			"created": "2015-06-09 16:38:45",
+			"modified": "2015-06-09 16:38:45"
+		},
+		{
+			"id": 2,
+			"order": 2,
+			"name": "帖子管理",
+			"mkey": "tzgl",
+			"resource_name": "对应资源名称",
+			"url": "#community/posts",
+			"parent_name": "父菜单名称",
+			"created": "2015-06-09 16:38:45",
+			"modified": "2015-06-09 16:38:45"
+		}
+	]
+}

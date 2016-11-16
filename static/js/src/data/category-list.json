@@ -1,0 +1,20 @@
+{
+	"statusCode": 1,
+	"slogan_id": 1,
+	"title": "标题",
+	"description": "描述",
+	"list": [
+		{
+			"id": 1,
+			"pic_url": "http://abcxxxxx",
+			"order": 1,
+			"category_name": "物理"
+		},
+		{
+			"id": 2,
+			"pic_url": "http://abcxxxxx",
+			"order": 2,
+			"category_name": "化学"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"statusCode": 1,
+	"pages": {
+		"page": 1,
+		"totalPage": 3,
+		"recordsPerPage": 100,
+		"totalRecord": 55
+	},
+	"list": [
+		{
+			"id": 1,
+			"name": "角色名称",
+			"created": "2015-06-09 16:38:45",
+			"modified": "2015-06-09 16:38:45",
+			"resources_name": "帖子;标签;首页"
+		},
+		{
+			"id": 2,
+			"name": "角色名称",
+			"created": "2015-06-09 16:38:45",
+			"modified": "2015-06-09 16:38:45",
+			"resources_name": "帖子;标签;首页"
+		}
+	]
+}

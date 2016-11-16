@@ -1,0 +1,35 @@
+{
+	"statusCode": 1,
+	"pages": {
+		"page": 1,
+		"totalPage": 3,
+		"recordsPerPage": 100,
+		"totalRecord": 55
+	},
+	"list": [
+		{
+			"id": 1,
+			"name": "清华大学",
+			"total_count": "498",
+			"running_count": "267",
+			"pre_count": "33",
+			"finish_count": "128",
+			"selfpaced_count": "10",
+			"tv_count": "10",
+			"edx_count": "10",
+			"abandon_count": "10"
+		},
+		{
+			"id": 2,
+			"name": "麻省理工学院",
+			"total_count": "498",
+			"running_count": "267",
+			"pre_count": "33",
+			"finish_count": "128",
+			"selfpaced_count": "10",
+			"tv_count": "10",
+			"edx_count": "10",
+			"abandon_count": "10"
+		}
+	]
+}

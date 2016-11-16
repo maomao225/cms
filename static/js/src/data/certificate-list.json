@@ -1,0 +1,21 @@
+{
+  "statusCode": 1,
+  "pages": {
+    "page": 1,
+    "totalPage": 3,
+    "recordsPerPage": 100,
+    "totalRecord": 55
+  },
+  "list": [
+    {
+      "name": "课程名称",
+      "course_id": "323432",
+      "status": "1"
+    },
+    {
+      "name": "课程名称",
+      "course_id": "2435345",
+      "status": "0"
+    }
+  ]
+}

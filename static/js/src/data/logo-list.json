@@ -1,0 +1,27 @@
+{
+  "statusCode": 1,
+  "pages": {
+    "page": 1,
+    "totalPage": 3,
+    "recordsPerPage": 100,
+    "totalRecord": 55
+  },
+  "list": [
+    {
+      "id": "1",
+      "name": "logo名称",
+      "suffix": "jpg",
+      "url_paper": "纸质logo图片地址",
+      "url_elec": "电子logo图片地址",
+      "created": "2015/05/05 21:00:00"
+    },
+    {
+      "id": "2",
+      "name": "logo名称",
+      "suffix": "jpg",
+      "url_paper": "纸质logo图片地址",
+      "url_elec": "电子logo图片地址",
+      "created": "2015/05/05 11:00:00"
+    }
+  ]
+}

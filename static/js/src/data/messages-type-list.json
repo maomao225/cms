@@ -1,0 +1,4 @@
+{
+	"statusCode": 1,
+	"channel_list":[{"id":1,"name":"邮件"},{"id":2,"name":"站内信"}]
+}
